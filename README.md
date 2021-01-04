@@ -24,3 +24,9 @@ FOLDER_UPDATE_NAME=01. Push File
 // 시작 프로그램 
  : Program Update.bat
 ```
+
+#### Etc Folder
+```C
+// 업데이트 진행 시 파일 넣어주는 경로
+ : 01. Push File
+```
